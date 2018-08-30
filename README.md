@@ -1,14 +1,13 @@
-AngularJS1 Directive Link Demo
-==============================
+AngularJS1 Directive Require Demo
+=================================
 
-Do some DOM operations in `link` function of directive.
+`require`表示当前directive依赖别的哪些directive，同时还能把它们的controller拿到手，放到`link`函数中调用。
 
 ```
 npm install
 open index.html
+open index-invalid.html
 ```
-
-![demo](./images/demo.jpg)
 
 Resources
 ---------
