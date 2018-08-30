@@ -13,5 +13,4 @@ Resources
 ---------
 
 - AngularJS1: <https://angularjs.org/>
-- directive api: <https://docs.angularjs.org/api/ng/service/$compile#directive-definition-object>
-- $element api: <https://docs.angularjs.org/api/ng/function/angular.element#angularjs-s-jqlite>
+- directive require api: <https://docs.angularjs.org/api/ng/service/$compile#-require->
